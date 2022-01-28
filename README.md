@@ -1,5 +1,6 @@
 <h1>Hello, sir 😊</h1>
 As a senior Fullstack Web + Mobile / Blockchain developer, I have 8+ years experience in software field.
+<br>
 Nowadays I am getting stuck to recent trendy technology : SMART CONTRACT, too.
 <h2>My main skills are :</h2>
 <ul>
@@ -20,19 +21,20 @@ Nowadays I am getting stuck to recent trendy technology : SMART CONTRACT, too.
   <ul>
     <li>Node/ExpressJS</li>
     <li>PHP + Laravel</li>
-  </ul>
-  <ul>
-    RestAPI/GraphQL
-  </ul>
+  </ul> 
   <br>
   Database
   <ul>
     <li>MySQL/PostgresQL/MongoDB/MsSQL/SqlLite</li>
   </ul>
+  <br>
+  RestAPI/GraphQL
   <li>
     <h4>Blockchain for SMART CONTRACT</h4>
   </li>
   <ul>
-    <li>Solidity/C#/Go</li>
-    <li>Web3</li>
+    <li>Building services with Solidity/C#/Go</li>
+    <li>Building DApps with Javascript + ECMAScript / Web3</li>
+    <li>Building NFT transactions</li>
+    <li>Token Minting</li>
   </ul>
