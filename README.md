@@ -9,7 +9,7 @@ Nowadays I am getting stuck to recent trendy technology : SMART CONTRACT, too.
     Frontend dev
   </li>
   <ul>
-    <li>React/NextJS + Redux + Material</li>
+    <li>React/NextJS + Redux + Material-UI</li>
     <li>Vue/NuxtJS</li>
     <li>Javascript + ECMAScript/Typescript</li>
     <li>Bootstrap/Tailwind</li>
@@ -42,8 +42,8 @@ Nowadays I am getting stuck to recent trendy technology : SMART CONTRACT, too.
  <br>
 Which of my skills would make your business become more efficient and energetical? How about going together onto the success?
 <br>
-I am a professional freelancer so that I will do the best being strictly punctual and with the best quality of progress. If we go to the same goals, I ensure that we will surely be happier getting trusted more and more each other.
+I am a professional freelancer so that I will do the best being strictly punctual and with the best quality of progress. If we go to the same goals, I ensure that we will surely be happier feeling trusted more and more together while time go on.
 <br>
 Thanks a lot.
 <br><br>
-Would you please look at some of my prev works following?
+Would you please pay attention to my some previous works, following?
