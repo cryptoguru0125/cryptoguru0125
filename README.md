@@ -14,7 +14,7 @@ Nowadays I am getting stuck to recent trendy technology : SMART CONTRACT, too.
     <li>React Native</li>
     <li>Javascript + ECMAScript/Typescript</li>
     <li>Bootstrap/Tailwind</li>
-    <li>HTML5/CSS3, especially Flexbox</li>
+    <li>HTML5/CSS3 especially Flexbox</li>
   </ul>
   <br>
   Backend dev
@@ -23,7 +23,7 @@ Nowadays I am getting stuck to recent trendy technology : SMART CONTRACT, too.
     <li>PHP + Laravel</li>
   </ul> 
   <br>
-  Database
+  Database up
   <ul>
     <li>MySQL/PostgresQL/MongoDB/MsSQL/SqlLite</li>
   </ul>
@@ -36,11 +36,11 @@ Nowadays I am getting stuck to recent trendy technology : SMART CONTRACT, too.
     <li>Building services with Solidity/C#/Go</li>
     <li>Building DApps with Javascript + ECMAScript / Web3</li>
     <li>Building NFT transactions</li>
-    <li>Token Minting</li>
+    <li>Token Mint</li>
   </ul>
  </ul>
  <br>
-Which of my skills could you want  me to contribute to your business? How about going together onto the success?
+Which of my skills would make your business become more efficient and energetical? How about going together onto the success?
 I am a professional freelancer so that I will do the best being strictly punctual and with the best quality of progress. If we go to the same goals, I ensure that we will surely be happier getting trusted more and more each other.
 Thanks a lot.
 <br>
