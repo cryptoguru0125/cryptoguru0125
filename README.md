@@ -40,10 +40,10 @@ Nowadays I am getting stuck to recent trendy technology : SMART CONTRACT, too.
   </ul>
  </ul>
  <br>
-Which of my skills would make your business become more efficient and energetical? How about going together onto the success?
+Which of my skills do you think will make your business more efficient and energetical? How about going together onto the success?
 <br>
 I am a professional freelancer so that I will do the best being strictly punctual and with the best quality of progress. If we go to the same goals, I ensure that we will surely be happier feeling trusted more and more together while time go on.
 <br>
-Thanks a lot.
+Thanks a lot.Thanks a lot.
 <br><br>
 Would you please pay attention to my some previous works, following?
