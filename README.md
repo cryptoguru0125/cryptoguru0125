@@ -12,7 +12,7 @@ Nowadays I am getting stuck to recent trendy technology : SMART CONTRACT, too.
     <li>React/NextJS + Redux + Material-UI</li>
     <li>Vue/NuxtJS</li>
     <li>Javascript + ECMAScript/Typescript</li>
-    <li>Bootstrap/Tailwind</li>
+    <li>Bootstrap/Tailwind for ResponsiveUI and Pixel-perfectism</li>
     <li>HTML5/CSS3 especially Flexbox</li>
     <li>React Native for Mobile apps</li>
   </ul>
