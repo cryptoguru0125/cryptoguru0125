@@ -21,4 +21,18 @@ Nowadays I am getting stuck to recent trendy technology : SMART CONTRACT, too.
     <li>Node/ExpressJS</li>
     <li>PHP + Laravel</li>
   </ul>
-  
+  <ul>
+    RestAPI/GraphQL
+  </ul>
+  <br>
+  Database
+  <ul>
+    <li>MySQL/PostgresQL/MongoDB/MsSQL/SqlLite</li>
+  </ul>
+  <li>
+    <h4>Blockchain for SMART CONTRACT</h4>
+  </li>
+  <ul>
+    <li>Solidity/C#/Go</li>
+    <li>Web3</li>
+  </ul>
