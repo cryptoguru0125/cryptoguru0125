@@ -1,16 +1,24 @@
-### Hi there 👋
-
-<!--
-**cryptoguru0125/cryptoguru0125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>Hello, sir 😊</h1>
+As a senior Fullstack Web + Mobile / Blockchain developer, I have 8+ years experience in software field.
+Nowadays I am getting stuck to recent trendy technology : SMART CONTRACT, too.
+<h2>My main skills are :</h2>
+<ul>
+  <li>
+    <h4>Fullstack dev</h4>
+    Frontend dev
+  </li>
+  <ul>
+    <li>React/NextJS + Redux + Material</li>
+    <li>Vue/Nuxt</li>
+    <li>React Native</li>
+    <li>Javascript + ECMAScript/Typescript</li>
+    <li>Bootstrap/Tailwind</li>
+    <li>HTML5/CSS3, especially Flexbox</li>
+  </ul>
+  <br>
+  Backend dev
+  <ul>
+    <li>Node/ExpressJS</li>
+    <li>PHP + Laravel</li>
+  </ul>
+  
