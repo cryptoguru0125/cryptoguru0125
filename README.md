@@ -10,11 +10,11 @@ Nowadays I am getting stuck to recent trendy technology : SMART CONTRACT, too.
   </li>
   <ul>
     <li>React/NextJS + Redux + Material</li>
-    <li>Vue/Nuxt</li>
-    <li>React Native</li>
+    <li>Vue/NuxtJS</li>
     <li>Javascript + ECMAScript/Typescript</li>
     <li>Bootstrap/Tailwind</li>
     <li>HTML5/CSS3 especially Flexbox</li>
+    <li>React Native for Mobile apps</li>
   </ul>
   <br>
   Backend dev
