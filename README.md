@@ -6,14 +6,15 @@ Nowadays I am getting stuck to recent trendy technology : SMART CONTRACT, too.
 <ul>
   <li>
     <h4>Fullstack dev</h4>
-    <li>Javascript + ECMAScript/Typescript</li>
+    Javascript + ECMAScript/Typescript
+    <br>
     Frontend dev
   </li>
   <ul>
     <li>React/NextJS + Redux + Material-UI</li>
     <li>Vue/NuxtJS</li>
     <li>Bootstrap/Tailwind for ResponsiveUI and Pixel-perfectism</li>
-    <li>HTML5/CSS3 especially Flexbox</li>
+    <li>HTML5/CSS3, especially Flexbox/SASS</li>
     <li>React Native for Mobile apps</li>
   </ul>
   <br>
