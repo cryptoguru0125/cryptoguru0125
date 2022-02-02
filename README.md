@@ -34,7 +34,7 @@ Nowadays I am getting stuck to recent trendy technology : SMART CONTRACT, too.
     <h4>Blockchain for SMART CONTRACT</h4>
   </li>
   <ul>
-    <li>Building services with Solidity/C#/Go + Hardhat + Truffle + Alchemy + Remix</li>
+    <li>Building services with Solidity/C#/Go + Hardhat + Truffle + Alchemy + Remix + Brownie</li>
     <li>Building DApps with Javascript + ECMAScript / Web3 / React</li>
     <li>Building NFT market place</li>
     <li>Token Mint</li>
