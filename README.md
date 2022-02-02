@@ -6,12 +6,12 @@ Nowadays I am getting stuck to recent trendy technology : SMART CONTRACT, too.
 <ul>
   <li>
     <h4>Fullstack dev</h4>
+    <li>Javascript + ECMAScript/Typescript</li>
     Frontend dev
   </li>
   <ul>
     <li>React/NextJS + Redux + Material-UI</li>
     <li>Vue/NuxtJS</li>
-    <li>Javascript + ECMAScript/Typescript</li>
     <li>Bootstrap/Tailwind for ResponsiveUI and Pixel-perfectism</li>
     <li>HTML5/CSS3 especially Flexbox</li>
     <li>React Native for Mobile apps</li>
@@ -33,9 +33,9 @@ Nowadays I am getting stuck to recent trendy technology : SMART CONTRACT, too.
     <h4>Blockchain for SMART CONTRACT</h4>
   </li>
   <ul>
-    <li>Building services with Solidity/C#/Go</li>
-    <li>Building DApps with Javascript + ECMAScript / Web3</li>
-    <li>Building NFT transactions</li>
+    <li>Building services with Solidity/C#/Go + Hardhat + Truffle + Alchemy + Remix</li>
+    <li>Building DApps with Javascript + ECMAScript / Web3 / React</li>
+    <li>Building NFT market place</li>
     <li>Token Mint</li>
   </ul>
  </ul>
