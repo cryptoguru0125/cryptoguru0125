@@ -7,7 +7,7 @@ Nowadays I am getting stuck to recent trendy technology : SMART CONTRACT, too.
   <li>
     <h4>Fullstack dev</h4>
     Javascript + ECMAScript/Typescript
-    <br>
+    <br><br>
     Frontend dev
   </li>
   <ul>
