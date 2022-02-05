@@ -1,5 +1,5 @@
 <h1>Hello, sir 😊</h1>
-As a senior Fullstack Web + Mobile / Blockchain developer, I have 8+ years & 30+ project completion experience in software field.
+As a senior Fullstack Web + Mobile / Blockchain developer, I have 8+ years and 30+ projects completion experience in software field.
 <br>
 Nowadays I am getting stuck to recent trendy technology, SMART CONTRACT, too.<br><br>
 <span>Would you please visit a little my portfolio? Please look at </span><a href = https://cryptoguru0125.github.io/>https://cryptoguru0125.github.io</a>
