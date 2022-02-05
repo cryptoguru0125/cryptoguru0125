@@ -47,5 +47,5 @@ I am a professional freelancer so that I will do the best being strictly punctua
 <br>
 Thanks a lot.
 <br><br>
-<span>Would you please visit little portfolio? You look </span><a href = https://cryptoguru0125.github.io/>https://cryptoguru0125.github.io</a>
+<span>Would you please visit a little my portfolio? Please look at </span><a href = https://cryptoguru0125.github.io/>https://cryptoguru0125.github.io</a>
 </ul>
