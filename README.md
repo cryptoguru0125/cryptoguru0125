@@ -1,8 +1,8 @@
 <h1>Hello, sir 😊</h1>
-As a senior Fullstack Web + Mobile / Blockchain developer, I have 8+ years experience in software field.
+As a senior Fullstack Web + Mobile / Blockchain developer, I have 8+ years & 30+ project completion experience in software field.
 <br>
-Nowadays I am getting stuck to recent trendy technology : SMART CONTRACT, too.
-<h2>My main skills are :</h2>
+Nowadays I am getting stuck to recent trendy technology, SMART CONTRACT, too.
+<h2>My skills are :</h2>
 <ul>
   <li>
     <h4>Fullstack dev</h4>
@@ -11,9 +11,9 @@ Nowadays I am getting stuck to recent trendy technology : SMART CONTRACT, too.
     Frontend dev
   </li>
   <ul>
-    <li>React/NextJS + Redux + Material-UI</li>
+    <li>React/NextJS + Redux + Material UI</li>
     <li>Vue/NuxtJS</li>
-    <li>Bootstrap/Tailwind for ResponsiveUI and Pixel-perfectism</li>
+    <li>Bootstrap/Tailwind for Responsive UI and Pixel-perfectism</li>
     <li>HTML5/CSS3, especially Flexbox/SASS</li>
     <li>React Native for Mobile apps</li>
   </ul>
@@ -34,10 +34,10 @@ Nowadays I am getting stuck to recent trendy technology : SMART CONTRACT, too.
     <h4>Blockchain for SMART CONTRACT</h4>
   </li>
   <ul>
-    <li>Building services with Solidity/C#/Go + Hardhat + Truffle + Alchemy + Remix</li>
+    <li>Building services with Solidity + Hardhat + Truffle + Alchemy + Remix</li>
     <li>Building DApps with Javascript + ECMAScript / Web3 / React</li>
-    <li>Building NFT market place</li>
-    <li>Token Mint</li>
+    <li>Building NFT mint & market place</li>
+    <li>Token publishing</li>
   </ul>
  </ul>
  <br>
@@ -47,5 +47,5 @@ I am a professional freelancer so that I will do the best being strictly punctua
 <br>
 Thanks a lot.
 <br><br>
-Would you please pay attention to some of my previous works, following?
+<span>Would you please visit little portfolio? You look </span><a href = https://cryptoguru0125.github.io/>https://cryptoguru0125.github.io</a>
 </ul>
