@@ -1,7 +1,8 @@
 <h1>Hello, sir 😊</h1>
 As a senior Fullstack Web + Mobile / Blockchain developer, I have 8+ years & 30+ project completion experience in software field.
 <br>
-Nowadays I am getting stuck to recent trendy technology, SMART CONTRACT, too.
+Nowadays I am getting stuck to recent trendy technology, SMART CONTRACT, too.<br><br>
+<span>Would you please visit a little my portfolio? Please look at </span><a href = https://cryptoguru0125.github.io/>https://cryptoguru0125.github.io</a>
 <h2>My skills are :</h2>
 <ul>
   <li>
@@ -11,11 +12,12 @@ Nowadays I am getting stuck to recent trendy technology, SMART CONTRACT, too.
     Frontend dev
   </li>
   <ul>
-    <li>React/NextJS + Redux + Material UI</li>
+    <li>React/NextJS + Redux + React material</li>
+    <li>Angular2-11 + Angular material</li>
     <li>Vue/NuxtJS</li>
     <li>Bootstrap/Tailwind for Responsive UI and Pixel-perfectism</li>
     <li>HTML5/CSS3, especially Flexbox/SASS</li>
-    <li>React Native for Mobile apps</li>
+    <li>React Native/Ionic for Mobile apps</li>
   </ul>
   <br>
   Backend dev
@@ -47,5 +49,4 @@ I am a professional freelancer so that I will do the best being strictly punctua
 <br>
 Thanks a lot.
 <br><br>
-<span>Would you please visit a little my portfolio? Please look at </span><a href = https://cryptoguru0125.github.io/>https://cryptoguru0125.github.io</a>
 </ul>
