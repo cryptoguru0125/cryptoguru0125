@@ -47,14 +47,15 @@ Nowadays I am getting stuck to recent trendy technology, SMART CONTRACT, too.<br
     <li>Building services using Solidity within Hardhat + Truffle + Alchemy + Remix</li>
     <li>Building DApps with Javascript + ECMAScript / Web3 / React</li>
   </ul>
-  <br>
+  <li>
+    <h4>Workflow management</h4>
+    Agile project management / Scrum methodology / Jira
+    <br>
+    Unit test using Jest, Jasmin, Mocha, Zombie
+    <br>
+    Github
+  </li>
  </ul>
- Workflow management
-<ul>
-  <li>Agile project management / Scrum methodology / Jira</li>
-  <li>Unit test using Jest, Jasmin, Mocha, Zombie</li>
-  <li>Github</li>
-</ul> 
 <br>
 Which of my skills do you expect will make your business more efficient and energetical? How about going together to the success?
 <br>
