@@ -36,7 +36,7 @@ Nowadays I am getting stuck to recent trendy technology, SMART CONTRACT, too.<br
     <li>MySQL/PostgresQL/MongoDB/MsSQL/SqlLite</li>
   </ul>
   <br>
-  RestAPI/GraphQL
+  RestAPI / GraphQL / WebSocket + Socket.io
   <li>
     <h4>SMART CONTRACT & NFT mint / market place</h4>
   </li>
