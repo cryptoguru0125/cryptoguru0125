@@ -42,6 +42,7 @@ Nowadays I am getting stuck to recent trendy technology, SMART CONTRACT, too.<br
   </li>
   <ul>
     <li>Being versed at Ethereum / Binance / Polygon / Tron</li>
+    <li>ERC 20 / 721 / 721A / 1155</li>
     <li>Building services using Solidity within OpenZeppelin + Hard hat + Ganache + Remix + Truffle + Alchemy</li>
     <li>Building DApps with Javascript + ECMAScript / Web3 / React</li>
   </ul>
