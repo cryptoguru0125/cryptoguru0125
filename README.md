@@ -1,8 +1,9 @@
 <h1>Hello, sir 😊</h1>
-As a senior Fullstack Web / blockchain developer, I have 8+ years and 30+ projects completion experience in software field.
-<br>
-Nowadays I am getting stuck to recent trendy technology, SMART CONTRACT, too.<br><br>
-<span>Would you please visit my portfolio? Please click </span><a href = https://cryptoguru0125.github.io/>https://cryptoguru0125.github.io</a>
+I am an experienced software lead / senior developer with notable career accomplishments and expertise in web and smart contract development, database design & modeling, blockchain infrastructure, creative idea over business & marketing, and team & project management.<br>
+As a senior Fullstack Web / blockchain / SMART CONNTRACT developer, I have handled, developed and deployed 25+ web and 8+ NFT mint / marketplace projects in 8+ years.<br><br>
+<span>Would you please visit my portfolio? Please click 
+</span><a href = https://cryptoguru0125.github.io/>https://cryptoguru0125.github.io</a>
+
 <h2>My skills are :</h2>
 <ul>
   <li>
@@ -56,10 +57,12 @@ Nowadays I am getting stuck to recent trendy technology, SMART CONTRACT, too.<br
   </li>
  </ul>
 <br>
-Which of my skills do you expect will make your business more energetic and useful? How about going together to the success?
+I always keep punctuality with the best quality of the whole work lifecycle that's why I am a professional freelancer. My goal is proive my expertise and development services to clients in order to assist them in running an efficient and profitable business, and to establish long-term business relationships with these clients.
 <br>
-I am a professional freelancer so that I will do the best being strictly punctual with the best quality of progress. If we go to the same goal, I ensure that we will surely be happier and happier feeling trusted more and more with my skills, agile manner and genuine attitude while time go on.
+Which of my skills do you expect will make your business more energetic and useful? How about going together to reach your goal?
+<br><br>
+Thanks for your reaching here
 <br>
-Thanks a lot.
+See you!
 <br><br>
 </ul>
