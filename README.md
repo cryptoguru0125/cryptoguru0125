@@ -57,7 +57,7 @@ As a senior Fullstack Web / blockchain / SMART CONNTRACT developer, I have handl
   </li>
  </ul>
 <br>
-I always keep punctuality with the best quality of the whole work lifecycle that's why I am a professional freelancer. My goal is proive my expertise and development services to clients in order to assist them in running an efficient and profitable business, and to establish long-term business relationships with these clients.
+I always keep punctuality with the best quality of the whole work lifecycle that's why I am a professional freelancer. My goal is to provide my expertise and development services to clients in order to assist them in running an efficient and profitable business, and to establish long-term business relationships with these clients.
 <br>
 Which of my skills do you expect will make your business more energetic and useful? How about going together to reach your goal?
 <br><br>
