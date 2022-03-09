@@ -1,13 +1,13 @@
 <h1>Hello, sir 😊</h1>
 I am an experienced software lead / senior developer with notable career accomplishments and expertise in web and smart contract development, database design & modeling, blockchain infrastructure, creative idea over business & marketing, and team & project management.<br>
-As a senior Fullstack Web / blockchain / SMART CONNTRACT developer, I have handled, developed and deployed 25+ web and 8+ NFT mint/marketplace/staking projects in 8+ years.<br><br>
+As a senior Full stack Web / blockchain / SMART CONNTRACT developer, I have handled, developed and deployed 25+ web and 8+ NFT mint/marketplace/staking projects in 8+ years.<br><br>
 <span>Would you please visit my portfolio? Please click 
 </span><a href = https://cryptoguru0125.github.io/>https://cryptoguru0125.github.io</a>
 
 <h2>My skills are :</h2>
 <ul>
   <li>
-    <h4>Fullstack dev</h4>
+    <h4>Full stack dev</h4>
     Javascript + ECMAScript / Typescript
     <br><br>
     Frontend dev
@@ -25,12 +25,6 @@ As a senior Fullstack Web / blockchain / SMART CONNTRACT developer, I have handl
     <li>Node/ExpressJS</li>
     <li>PHP + Laravel</li>
   </ul> 
-  <br>
-  CMS & eCommerce
-  <ul>
-    <li>Wordpress + WooCommerce</li>
-    <li>Shopify + Shop pay</li>
-  </ul>
   <br>
   Database up
   <ul>
